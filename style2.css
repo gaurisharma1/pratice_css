@@ -1,0 +1,27 @@
+h1{
+    color: coral;
+    border: 3px solid coral;
+    font-size:2rem;
+    box-sizing:border-box;
+}
+
+.container{
+    border: 2px solid cadetblue;
+    font-size: 2rem;
+
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    margin-left: 3em;
+    margin-right: 3em;
+
+    border-top: 10px solid antiquewhite;
+    border-right: 10px solid darkgrey;
+    border-left: 10px solid salmon;
+    border-bottom: 10px solid rosybrown;
+    border-radius: 44px;
+    
+    padding-top:3rem;
+    padding-bottom: 3rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
